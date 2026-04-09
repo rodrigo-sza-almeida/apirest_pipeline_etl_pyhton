@@ -51,40 +51,50 @@ Postman / Cliente
 - CSV
 - Banco de Dados (ambiente de testes)
 
-▶️ Executando o Projeto Localmente
+
+## ▶️ Executando o Projeto Localmente
 
 1. Clone o repositório:
 
 ```text
 git clone https://github.com/seu-usuario/api-rest-etl-llm.git
-``` 
+```
+
 2. Crie um ambiente virtual:
 
+```text
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
+```
 
 3. Instale as dependências:
 
+```text
 pip install -r requirements.txt
+```
 
 4. Execute a aplicação:
 
+```text
 python src/app.py
+```
 
 5. Acesse os endpoints via Postman:
-
+   
+```text
 http://localhost:5000
+```
 
-☁️ Pipeline ETL no Google Colab
+ ## ☁️ Pipeline ETL no Google Colab
 
 O pipeline de automação foi desenvolvido e executado no Google Colab.
 
-📎 Notebook do Colab:
+## 📎 Notebook do Colab:
 
 👉 https://colab.research.google.com/drive/1eDhHF-cSfTx1tW86ECjoSCfSiF7RuGwm#scrollTo=05b66a5f
 
-📚 Aprendizados
+## 📚 Aprendizados
 
 Durante o desenvolvimento deste projeto, foram explorados conceitos importantes como:
 
@@ -97,11 +107,11 @@ Durante o desenvolvimento deste projeto, foram explorados conceitos importantes 
 - Boas práticas de organização de projetos backendhttps://github.com/rodrigo-sza-almeida
 
 
-🎓 Créditos
+## 🎓 Créditos
 
 Projeto desenvolvido como parte do Bootcamp da DIO (Digital Innovation One).
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 Rodrigo Almeida
 📍 Santo André - SP

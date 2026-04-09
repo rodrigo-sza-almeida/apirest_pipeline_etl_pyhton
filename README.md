@@ -6,7 +6,7 @@ O objetivo principal foi consolidar conhecimentos em **desenvolvimento backend**
 
 ---
 
-```markdown
+```
 https://img.shields.io/badge/Python-3.10-blue]()
 https://img.shields.io/badge/Flask-API-green]()
 https://img.shields.io/badge/Google-Colab-orange]()

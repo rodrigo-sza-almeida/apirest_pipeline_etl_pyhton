@@ -5,9 +5,9 @@ Este projeto consiste no desenvolvimento de uma **API REST utilizando Python e F
 O objetivo principal foi consolidar conhecimentos em **desenvolvimento backend**, **integração entre ambientes local e nuvem**, **automação de processos** e **uso prático de IA generativa**.
 
 ---
-
-```
+```markdown
 https://img.shields.io/badge/Python-3.10-blue]()
+```
 https://img.shields.io/badge/Flask-API-green]()
 https://img.shields.io/badge/Google-Colab-orange]()
 ```

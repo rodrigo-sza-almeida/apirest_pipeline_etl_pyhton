@@ -23,6 +23,7 @@ API REST (Flask)
    ↓
 Postman / Cliente
 ```
+
 ## ⚙️ Funcionalidades
 
 ✅ API REST para consumo de dados de usuários

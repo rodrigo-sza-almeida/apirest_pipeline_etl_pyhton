@@ -6,6 +6,12 @@ O objetivo principal foi consolidar conhecimentos em **desenvolvimento backend**
 
 ---
 
+```markdown
+https://img.shields.io/badge/Python-3.10-blue]()
+https://img.shields.io/badge/Flask-API-green]()
+https://img.shields.io/badge/Google-Colab-orange]()
+```
+
 ## 🧩 Visão Geral da Arquitetura
 
 ```text
@@ -92,7 +98,8 @@ O pipeline de automação foi desenvolvido e executado no Google Colab.
 
 ## 📎 Notebook do Colab:
 
-👉 https://colab.research.google.com/drive/1eDhHF-cSfTx1tW86ECjoSCfSiF7RuGwm#scrollTo=05b66a5f
+👉 <a> https://colab.research.google.com/drive/1eDhHF-cSfTx1tW86ECjoSCfSiF7RuGwm#scrollTo=jZaNm675eNR7
+  https://colab.research.google.com/assets/colab-badge.svg </a>
 
 ## 📚 Aprendizados
 

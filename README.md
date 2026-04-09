@@ -8,7 +8,7 @@ O objetivo principal foi consolidar conhecimentos em **desenvolvimento backend**
 
 ## 🧩 Visão Geral da Arquitetura
 
-```text
+text
 [ CSV ]
    ↓
 ETL Pipeline (Colab)
@@ -23,7 +23,7 @@ API REST (Flask)
    ↓
 Postman / Cliente
 
-⚙️ Funcionalidades
+## ⚙️ Funcionalidades
 
 ✅ API REST para consumo de dados de usuários
 ✅ Pipeline ETL (Extract, Transform, Load)
@@ -48,7 +48,7 @@ Postman / Cliente
 
 1. Clone o repositório:
 
-<img width="766" height="49" alt="image" src="https://github.com/user-attachments/assets/d4d7df8f-d27d-4eb2-b514-c4562cdcc9d2"/>
+git clone https://github.com/seu-usuario/api-rest-etl-llm.git
 
 2. Crie um ambiente virtual:
 
@@ -73,9 +73,11 @@ http://localhost:5000
 O pipeline de automação foi desenvolvido e executado no Google Colab.
 
 📎 Notebook do Colab:
+
 👉 https://colab.research.google.com/drive/1eDhHF-cSfTx1tW86ECjoSCfSiF7RuGwm#scrollTo=05b66a5f
 
 📚 Aprendizados
+
 Durante o desenvolvimento deste projeto, foram explorados conceitos importantes como:
 
 - Construção de APIs REST com Flask
@@ -88,9 +90,11 @@ Durante o desenvolvimento deste projeto, foram explorados conceitos importantes 
 
 
 🎓 Créditos
+
 Projeto desenvolvido como parte do Bootcamp da DIO (Digital Innovation One).
 
 👨‍💻 Autor
+
 Rodrigo Almeida
 📍 Santo André - SP
 🔗 LinkedIn: https://www.linkedin.com/in/rodrigo-de-souza-almeida/

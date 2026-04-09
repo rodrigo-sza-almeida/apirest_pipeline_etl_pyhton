@@ -27,7 +27,7 @@ Um dos destaques técnicos deste projeto foi o desafio de conectar o ambiente em
 
 ## 📖 Como utilizar este Notebook
 
-1.  Abra o arquivo no Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](1eDhHF-cSfTx1tW86ECjoSCfSiF7RuGwm#scrollTo=jZaNm675eNR7)
+1.  Abra o arquivo no Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eDhHF-cSfTx1tW86ECjoSCfSiF7RuGwm#scrollTo=jZaNm675eNR7)
 2.  Certifique-se de que a API REST (pasta `/api`) esteja em execução.
 3.  Configure sua **API KEY** da inteligência artificial nas variáveis de ambiente do notebook.
 4.  Execute as células em ordem para processar o CSV e realizar a carga via API.

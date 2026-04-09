@@ -1,14 +1,3 @@
-# apirest_pipeline_etl_pyhton
-Projeto API REST utilizando Python e Flask, integrada a um pipeline de automação ETL
-
-https://img.shields.io/badge/Python-3.10-blue]()
-https://img.shields.io/badge/Flask-API-green]()
-https://img.shields.io/badge/Google-Colab-orange]()
-
-https://colab.research.google.com/drive/SEU_LINK_AQUI
-  https://colab.research.google.com/assets/colab-badge.svg
-</a>
-
 # 🚀 API REST com Python, ETL e Integração com LLM
 
 Este projeto consiste no desenvolvimento de uma **API REST utilizando Python e Flask**, integrada a um **pipeline de automação ETL** executado em ambiente de nuvem (Google Colab), com uso de **LLM (Large Language Model)** para geração de textos personalizados a partir de dados estruturados.

@@ -48,7 +48,7 @@ Postman / Cliente
 
 1. Clone o repositório:
 
-<img width="766" height="49" alt="image" src="https://github.com/user-attachments/assets/d4d7df8f-d27d-4eb2-b514-c4562cdcc9d2" />
+<img width="766" height="49" alt="image" src="https://github.com/user-attachments/assets/d4d7df8f-d27d-4eb2-b514-c4562cdcc9d2"/>
 
 2. Crie um ambiente virtual:
 

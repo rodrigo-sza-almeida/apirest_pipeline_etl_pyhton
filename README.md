@@ -39,7 +39,7 @@ Postman / Cliente
 ✅ Testes de endpoints utilizando Postman
 
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - Python
 - Flask

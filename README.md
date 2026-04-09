@@ -114,7 +114,10 @@ Projeto desenvolvido como parte do Bootcamp da DIO (Digital Innovation One).
 ## 👨‍💻 Autor
 
 Rodrigo Almeida
+
 📍 Santo André - SP
+
 🔗 LinkedIn: https://www.linkedin.com/in/rodrigo-de-souza-almeida/
+
 📂 GitHub: https://github.com/rodrigo-sza-almeida
 

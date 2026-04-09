@@ -8,7 +8,7 @@ O objetivo principal foi consolidar conhecimentos em **desenvolvimento backend**
 
 ## 🧩 Visão Geral da Arquitetura
 
-text
+```text
 [ CSV ]
    ↓
 ETL Pipeline (Colab)
@@ -22,7 +22,7 @@ Banco de Dados
 API REST (Flask)
    ↓
 Postman / Cliente
-
+```
 ## ⚙️ Funcionalidades
 
 ✅ API REST para consumo de dados de usuários
@@ -48,8 +48,9 @@ Postman / Cliente
 
 1. Clone o repositório:
 
+```text
 git clone https://github.com/seu-usuario/api-rest-etl-llm.git
-
+``` 
 2. Crie um ambiente virtual:
 
 python -m venv venv

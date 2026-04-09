@@ -27,11 +27,17 @@ Postman / Cliente
 ## ⚙️ Funcionalidades
 
 ✅ API REST para consumo de dados de usuários
+
 ✅ Pipeline ETL (Extract, Transform, Load)
+
 ✅ Leitura de dados a partir de arquivos CSV
+
 ✅ Integração com LLM para geração de texto personalizado
+
 ✅ Comunicação entre ambiente local e nuvem
+
 ✅ Testes de endpoints utilizando Postman
+
 
 🛠️ Tecnologias Utilizadas
 

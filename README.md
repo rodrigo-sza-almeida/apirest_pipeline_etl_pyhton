@@ -48,7 +48,7 @@ Postman / Cliente
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/api-rest-etl-llm.git
+<img width="766" height="49" alt="image" src="https://github.com/user-attachments/assets/d4d7df8f-d27d-4eb2-b514-c4562cdcc9d2" />
 
 2. Crie um ambiente virtual:
 
@@ -69,7 +69,9 @@ python src/app.py
 http://localhost:5000
 
 ☁️ Pipeline ETL no Google Colab
+
 O pipeline de automação foi desenvolvido e executado no Google Colab.
+
 📎 Notebook do Colab:
 👉 https://colab.research.google.com/drive/1eDhHF-cSfTx1tW86ECjoSCfSiF7RuGwm#scrollTo=05b66a5f
 
